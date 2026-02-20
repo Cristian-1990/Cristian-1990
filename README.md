@@ -1,7 +1,6 @@
-
 # ¡Hola! Soy Cristian Alvarez Fernandez 👋
 
-
+![Banner]()
 
 ## 🎓 Sobre mí
 Soy estudiante de primer año de **DAW** en el **IES Luis Vives de Leganés**. Actualmente estoy aprendiendo programación con el profesor `Jose Luis Gonzalez Sanchez`.
@@ -12,20 +11,20 @@ Soy estudiante de primer año de **DAW** en el **IES Luis Vives de Leganés**. A
 ---
 
 ## 🛠️ Stack Tecnológico
-Sintaxis basada en la **Sección 2.2** de los apuntes:
+Sintaxis de lista siguiendo la **sección 2.2**:
 
-### 💻 Programación y Bases de Datos
-* **Lenguajes:** `C#` (Actualmente profundizando en `LINQ`).
+* **Lenguajes:** `C#` (Profundizando en `LINQ`).
 * **Bases de Datos:**
-  * **NoSQL:** `MongoDB`
-  * **Relacionales:** `SQL`
+  * **NoSQL:** `MongoDB`.
+  * **Relacionales:** `SQL`.
 * **Entornos:** `Visual Studio Code` y `Git`.
 
 ---
 
 ## 📊 Estadísticas de GitHub
+*Si sigue sin cargar, espera unos segundos y refresca la página:*
 
-![Estadísticas de Cristian](https://github-readme-stats.vercel.app/api?username=Cristian-1990&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=Cristian-1990&show_icons=true&theme=dark&hide_border=true" alt="Estadísticas de Cristian" />
 
 ---
 
@@ -39,4 +38,4 @@ Sintaxis basada en la **Sección 2.2** de los apuntes:
 | Documentación | `Markdown` | Completado ✅ |
 
 ---
-*Documentación siguiendo los estándares del curso.*
+*Documentación según estándares del curso 2025-2026.*
