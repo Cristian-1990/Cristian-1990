@@ -1,7 +1,7 @@
 
 # ¡Hola! Soy Cristian Alvarez Fernandez 👋
 
-![Banner](https://raw.githubusercontent.com/joseluisgs/joseluisgs/master/images/banner.png)
+
 
 ## 🎓 Sobre mí
 Soy estudiante de primer año de **DAW** en el **IES Luis Vives de Leganés**. Actualmente estoy aprendiendo programación con el profesor `Jose Luis Gonzalez Sanchez`.
