@@ -22,8 +22,6 @@ Sintaxis de lista siguiendo la **sección 2.2**:
 ---
 
 ## 📊 Estadísticas de GitHub
-*Si sigue sin cargar, espera unos segundos y refresca la página:*
-
 <img src="https://github-readme-stats.vercel.app/api?username=Cristian-1990&show_icons=true&theme=dark&hide_border=true" alt="Estadísticas de Cristian" />
 
 ---
