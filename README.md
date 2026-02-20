@@ -24,7 +24,7 @@ Sintaxis basada en la **Sección 2.2** de los apuntes:
 ---
 
 ## 📊 Estadísticas de GitHub
-Asegúrate de cambiar **TU_USUARIO** por **Cristian-1990** en el siguiente enlace:
+
 ![Estadísticas de Cristian](https://github-readme-stats.vercel.app/api?username=Cristian-1990&show_icons=true&theme=radical)
 
 ---
