@@ -1,19 +1,23 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:2C3E50,100:4B0082&height=220&section=header&text=&fontSize=0&animation=fadeIn)
+<!-- BANNER FULL WIDTH -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:4B0082&height=250&section=header&text=&fontSize=0"/>
+</p>
 
-# ¡Hola! Soy Cristian Alvarez Fernandez 👋
+<h1 align="center">Cristian Alvarez Fernandez 👋</h1>
 
-🎓 Estudiante de **1º DAW**  
-📍 IES Luis Vives de Leganés  
-💻 Enfocado en desarrollo **Backend**
+<p align="center">
+🎓 Estudiante de 1º DAW &nbsp; | &nbsp;
+📍 IES Luis Vives de Leganés &nbsp; | &nbsp;
+💻 Backend Developer en progreso
+</p>
 
 ---
 
 ## 🎯 Sobre mí
 
-Soy estudiante de Desarrollo de Aplicaciones Web y actualmente estoy aprendiendo programación con `C#`, profundizando en `LINQ` y buenas prácticas de documentación técnica.
+Estudiante de Desarrollo de Aplicaciones Web enfocado en backend con **C#** y buenas prácticas de documentación.
 
-> [!IMPORTANT]  
-> Mi objetivo este año es dominar el desarrollo backend y escribir código limpio, estructurado y bien documentado.
+> Mi objetivo este año es dominar el desarrollo backend y escribir código limpio, estructurado y profesional.
 
 ---
 
@@ -33,26 +37,21 @@ Soy estudiante de Desarrollo de Aplicaciones Web y actualmente estoy aprendiendo
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 Actividad en GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cristian-1990&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+<!-- SISTEMA MÁS ESTABLE -->
+![GitHub Streak](https://streak-stats.demolab.com?user=Cristian-1990&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian-1990&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cristian-1990&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
-## 🚀 Mis Proyectos
+## 🚀 Proyectos
 
 | Proyecto | Tecnología | Estado |
 |----------|------------|--------|
 | Ejercicios LINQ | `C#` | 🛠️ En desarrollo |
 | Documentación Técnica | `Markdown` | ✅ Completado |
-
----
-
-## 📚 Referencias
-
-👨‍🏫 Profesor: [Jose Luis González Sánchez](https://github.com/joseluisgs)
 
 ---
 
