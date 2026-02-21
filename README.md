@@ -47,15 +47,16 @@ Estudiante de Desarrollo de Aplicaciones Web con **C#** y **LINQ**.
 
 ## 🚀 Proyectos
 
-| Proyecto | Tecnología | Estado |
-|----------|------------|--------|
-| Ejercicios LINQ | `C#` | 🛠️ En desarrollo |
-| Documentación Técnica | `Markdown` | ✅ Completado |
+| Área | Tecnologías / Herramientas | Conceptos Clave | Estado |
+| :--- | :--- | :--- | :--- |
+| **Programación** | `C#` + `Rider` | POO, Funcional y LINQ para BDOO | 👨‍💻 Cursando |
+| **Entornos de Desarrollo** | `Markdown` + `PlantUML` | Diagramas de Clases y Documentación | 📊 Cursando |
 
 ---
 ---
+---
 
-## 🔗 Referencias
+## 🔗 Referencias académicas
 - **Profesor:** [Jose Luis González Sánchez](https://github.com/joseluisgs)
 
 ---
