@@ -15,13 +15,13 @@
 
 ## 🎯 Sobre mí
 
-Estudiante de Desarrollo de Aplicaciones Web enfocado en backend con **C#** y buenas prácticas de documentación.
+Estudiante de Desarrollo de Aplicaciones Web con **C#** y **LINQ**.
 
-> Mi objetivo este año es dominar el desarrollo backend y escribir código limpio, estructurado y profesional.
+> Mi objetivo este año es dominar el desarrollo web y escribir código limpio, estructurado y profesional.
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Tecnologias
 
 ### 👨‍💻 Lenguajes
 ![C#](https://img.shields.io/badge/C%23-3A0CA3?style=for-the-badge&logo=csharp&logoColor=white)
@@ -39,10 +39,9 @@ Estudiante de Desarrollo de Aplicaciones Web enfocado en backend con **C#** y bu
 
 ## 📊 Actividad en GitHub
 
-<!-- SISTEMA MÁS ESTABLE -->
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=Cristian-1990&theme=tokyonight&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cristian-1990&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -54,5 +53,11 @@ Estudiante de Desarrollo de Aplicaciones Web enfocado en backend con **C#** y bu
 | Documentación Técnica | `Markdown` | ✅ Completado |
 
 ---
+---
 
-⭐ Perfil en construcción | Curso 2025-2026
+## 🔗 Referencias
+- **Profesor:** [Jose Luis González Sánchez](https://github.com/joseluisgs)
+
+---
+
+⭐ Perfil en construccion
