@@ -1,7 +1,8 @@
-<!-- BANNER FULL WIDTH -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:4B0082&height=250&section=header&text=&fontSize=0"/>
-</p>
+
+
+<img width="864" height="457" alt="PerfilGitHub" src="https://github.com/user-attachments/assets/b62a35ab-92b8-4e42-823f-1eb460105a6f" />
+
 
 <h1 align="center">Cristian Alvarez Fernandez 👋</h1>
 
@@ -18,8 +19,7 @@
 Estudiante de Desarrollo de Aplicaciones Web con **C#** y **LINQ**.
 
 > Mi objetivo este año es dominar el desarrollo web y escribir código limpio, estructurado y profesional.
-> [!IMPORTANT]
-> Actualmente profundizando en **Programación Funcional** y **LINQ para BDOO** con `C#`.
+
 ---
 
 ## 🛠️ Tecnologias
@@ -57,7 +57,9 @@ Estudiante de Desarrollo de Aplicaciones Web con **C#** y **LINQ**.
 | **Entornos de Desarrollo** | `UML` | Diagramas de Clases y Documentación | 📊 Cursando |
 
 ---
-
+> [!IMPORTANT]
+> Actualmente profundizando en **Programación Funcional** y **LINQ para BDOO** con `C#`.
+---
 ## 🔗 Referencias académicas 📚​
 - **Profesor:** [Jose Luis González Sánchez](https://github.com/joseluisgs)
 
