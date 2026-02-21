@@ -18,7 +18,8 @@
 Estudiante de Desarrollo de Aplicaciones Web con **C#** y **LINQ**.
 
 > Mi objetivo este año es dominar el desarrollo web y escribir código limpio, estructurado y profesional.
-
+> [!IMPORTANT]
+> Actualmente profundizando en **Programación Funcional** y **LINQ para BDOO** con `C#`.
 ---
 
 ## 🛠️ Tecnologias
@@ -26,12 +27,15 @@ Estudiante de Desarrollo de Aplicaciones Web con **C#** y **LINQ**.
 ### 👨‍💻 Lenguajes
 ![C#](https://img.shields.io/badge/C%23-3A0CA3?style=for-the-badge&logo=csharp&logoColor=white)
 ![LINQ](https://img.shields.io/badge/LINQ-4361EE?style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🗄️ Bases de Datos
 ![MongoDB](https://img.shields.io/badge/MongoDB-1B4332?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-1D3557?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🧰 Entornos
+![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-1E3A8A?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-6A040F?style=for-the-badge&logo=git&logoColor=white)
 
@@ -49,14 +53,12 @@ Estudiante de Desarrollo de Aplicaciones Web con **C#** y **LINQ**.
 
 | Área | Tecnologías / Herramientas | Conceptos Clave | Estado |
 | :--- | :--- | :--- | :--- |
-| **Programación** | `C#` + `Rider` | POO, Funcional y LINQ para BDOO | 👨‍💻 Cursando |
-| **Entornos de Desarrollo** | `Markdown` + `PlantUML` | Diagramas de Clases y Documentación | 📊 Cursando |
+| **Programación** | `C#` + `Rider` | POO, Funcional y LINQ para BDOO | 📊 Cursando |
+| **Entornos de Desarrollo** | `UML` | Diagramas de Clases y Documentación | 📊 Cursando |
 
 ---
----
----
 
-## 🔗 Referencias académicas
+## 🔗 Referencias académicas 📚​
 - **Profesor:** [Jose Luis González Sánchez](https://github.com/joseluisgs)
 
 ---
