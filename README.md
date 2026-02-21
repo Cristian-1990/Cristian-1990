@@ -8,7 +8,7 @@
 <p align="center">
 🎓 Estudiante de 1º DAW &nbsp; | &nbsp;
 📍 IES Luis Vives de Leganés &nbsp; | &nbsp;
-💻 Backend Developer en progreso
+💻 Developer en progreso
 </p>
 
 ---
